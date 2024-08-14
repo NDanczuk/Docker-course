@@ -1,3 +1,4 @@
 node_modules
 wp-app
 db.env
+wp.env
