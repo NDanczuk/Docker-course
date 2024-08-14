@@ -10,3 +10,8 @@ object:
 
 null_value: null
 null_value2: ~
+
+bool_false: off
+bool_true: on
+bool_false2: false
+bool_true2: true
