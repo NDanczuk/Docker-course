@@ -15,3 +15,12 @@ bool_false: off
 bool_true: on
 bool_false2: false
 bool_true2: true
+
+array_numbers: [1, 2, 3, 4, 5]
+
+number_array: 
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
