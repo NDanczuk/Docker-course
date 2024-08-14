@@ -24,3 +24,9 @@ number_array:
   - 3
   - 4
   - 5
+
+dictionary_1: {n1: 1, n2: 2, internal: {a: 2}}
+
+dictionary_2:
+  - n1: 1
+  - n2: 2
