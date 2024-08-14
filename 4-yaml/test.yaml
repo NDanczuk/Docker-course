@@ -1,9 +1,9 @@
 # Instructions
-name: "Nicolas"
+name: Nicolas
 age: 19 # age
 
 # Description
 complete_version: 2.14.5
 object:
   version: 2
-  file: "text.txt"
+  file: text.txt
